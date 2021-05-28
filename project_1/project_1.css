@@ -1,0 +1,30 @@
+html {
+  background-image: url("background.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 30 % px; /* You must set a specified height */
+  background-position: cener; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  ackground-attachment: fixed;
+}
+
+.fontstlye{
+   font-family: Calendas Plus;
+  /* font-shadow: 2px 2px ;*/
+    color: red;
+}
+
+#MainTable {
+    width: 100%;
+    background-color: #D8F0DA;
+    border: 1px;
+    min-width: 100%;
+    position: center;
+    opacity: 0.97;
+    background: transparent;
+
+}
+
+td {
+  text-align: center;
+}
